@@ -1,0 +1,54 @@
+/*** HEADER ***/
+#header{
+    height:150px;
+    padding-top: 20px;
+    background-color:forestgreen;
+}
+
+#header #titre{
+    margin-top: 30px;
+    font-size: 50px;
+    text-align: center;
+    font-family: Chalkduster;
+    color:aliceblue;
+}
+
+#nom{
+    text-align: left;
+    font-size: 20px;
+    font-family: Brusher;
+    color: darkgreen;
+}
+
+#tuto{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#Cun{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+#testElise{
+}
+
+#testElise #mamoune{
+    font-weight: bold;
+    font-family: Andale Mono;
+}
+
+#testElise #explication{
+    font-style: italic;
+    font-family: Andale Mono;
+    text-align: center;
+}
+
+#testElise #explication #para{
+    font-style: normal;
+    font-family: arial;
+    text-align: left;
+}
